@@ -137,6 +137,30 @@ function pw() {
       <h3>Trains</h3>
       <img src="image_1(27).jpg" alt="AF"/><a href="https://www.mediafire.com/file/l0213u6f9yrtrz9/Trains_Add-On_%2528addon%2529_By_Hadzz.mcaddon/file" class="download-btn" target="_blank">Download Add-On</a>
     </div>
+    <div class="card">
+      <h3>Sit On Everything</h3>
+      <img src="image_1(28).jpg" alt="AF"/><a href="https://www.mediafire.com/file/6noutvpfu6laabk/Sit_On_Everything_Add-on_%2528addon%2529_by_Hadzz.mcaddon/file" class="download-btn" target="_blank">Download Add-On</a>
+    </div>
+    <div class="card">
+      <h3>Epic Kill Animations</h3>
+      <img src="image_1(29).jpg" alt="AF"/><a href="https://www.mediafire.com/file/v7vp9y5a5sxehsp/Epic+Kill+Animations+(addon)+by+Hadzz.mcaddon/file" class="download-btn" target="_blank">Download Add-On</a>
+    </div>
+    <div class="card">
+      <h3>100+ Structures</h3>
+      <img src="image_1(30).jpg" alt="AF"/><a href="https://www.mediafire.com/file/xu4vl1jbkje4398/100++Structures+Add-On+(addon)+by+Hadzz.mcaddon/file" class="download-btn" target="_blank">Download Add-On</a>
+    </div>
+    <div class="card">
+      <h3>McDonald's</h3>
+      <img src="image_1(31).jpg" alt="AF"/><a href="https://www.mediafire.com/file/ktd9580vzj6sbj3/McDonald%2527s-Add-on_%2528addon%2529_by_Hadzz.mcaddon/file" class="download-btn" target="_blank">Download Add-On</a>
+    </div>
+    <div class="card">
+      <h3>Mine Emote</h3>
+      <img src="image_1(32).jpg" alt="AF"/><a href="https://www.mediafire.com/file/xgr34lh7hqc1x4y/Mine_Emote_Beta_%2528Fat%2529.mcaddon/file" class="download-btn" target="_blank">Download Beta Fat</a><br><a href="https://www.mediafire.com/file/o43j0supsni79d5/Mine_Emote_Beta_v_0.5.5_Slim.mcaddon/file" class="download-btn" target="_blank">Download Beta Slim</a>
+    </div>
+    <div class="card">
+      <h3>Scara Hat Red & Blue</h3>
+      <img src="image_1(33).jpg" alt="AF"/><a href="https://www.mediafire.com/file/mf9qs873t0n8wa5/Scara_Red_%2526_Blue.zip/file" class="download-btn" target="_blank">Download Add-On</a>
+    </div>
   </div>
   <style>
   body {

@@ -8,7 +8,7 @@ function filterCards() {
   });
 }
 function Beranda() {
-    window.location.href = "";
+    window.location.href = "https://58s0kj02s.github.io/4ljs4la1w55jso2/";
   }
   function addon() {
     window.location.reload();
